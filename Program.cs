@@ -27,7 +27,7 @@ namespace Solution2
                     continue;
                 }
             }
-
+            var executionTime = System.Diagnostics.Stopwatch.StartNew();
             int p = MIN_PRIME;
             int power = p * p;
 
@@ -80,7 +80,9 @@ namespace Solution2
             {
                 Console.Write(circlePrime[i] + "  ");
             }
-            Console.WriteLine("Total count = {0}", circlePrime.Count);
+            Console.WriteLine("\n Total count = {0}", circlePrime.Count);
+            executionTime.Stop();
+            Console.WriteLine("Time used: {0} ms or {1} s", executionTime.ElapsedMilliseconds, Math.Round((double)executionTime.ElapsedMilliseconds)/1000);
         }
 
         static bool isCirclePrime(int Value, ref List<Int32> Map)
