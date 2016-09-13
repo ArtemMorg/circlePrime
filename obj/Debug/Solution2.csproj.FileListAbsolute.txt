@@ -1,0 +1,6 @@
+E:\Work\C#\Console\CourseExam\Solution2\Solution2\bin\Debug\Solution2.exe.config
+E:\Work\C#\Console\CourseExam\Solution2\Solution2\bin\Debug\Solution2.exe
+E:\Work\C#\Console\CourseExam\Solution2\Solution2\bin\Debug\Solution2.pdb
+E:\Work\C#\Console\CourseExam\Solution2\Solution2\obj\Debug\Solution2.csprojResolveAssemblyReference.cache
+E:\Work\C#\Console\CourseExam\Solution2\Solution2\obj\Debug\Solution2.exe
+E:\Work\C#\Console\CourseExam\Solution2\Solution2\obj\Debug\Solution2.pdb
